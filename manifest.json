@@ -1,0 +1,1703 @@
+{
+ "version": 1,
+ "updated": "2026-10-09",
+ "items": [
+  {
+   "key": "sbi",
+   "name": "State Bank of India",
+   "match": [
+    "sbi",
+    "state bank",
+    "sbiinb",
+    "yono"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "sbicard",
+   "name": "SBI Card",
+   "match": [
+    "sbi card",
+    "sbicard",
+    "sbicrd"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "hdfcbank",
+   "name": "HDFC Bank",
+   "match": [
+    "hdfc",
+    "hdfcbk"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "icicibank",
+   "name": "ICICI Bank",
+   "match": [
+    "icici",
+    "icicib"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "axisbank",
+   "name": "Axis Bank",
+   "match": [
+    "axis bank",
+    "axisbk",
+    "axis"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "kotak",
+   "name": "Kotak Mahindra Bank",
+   "match": [
+    "kotak",
+    "kotakb"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "yesbank",
+   "name": "Yes Bank",
+   "match": [
+    "yes bank",
+    "yesbnk"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "indusind",
+   "name": "IndusInd Bank",
+   "match": [
+    "indusind",
+    "indusb"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "idfcfirst",
+   "name": "IDFC FIRST Bank",
+   "match": [
+    "idfc",
+    "idfcfb"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "federalbank",
+   "name": "Federal Bank",
+   "match": [
+    "federal bank",
+    "fedbnk",
+    "federal"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "bankofbaroda",
+   "name": "Bank of Baroda",
+   "match": [
+    "bank of baroda",
+    "bobtxn",
+    "bobcrd",
+    "baroda"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "pnb",
+   "name": "Punjab National Bank",
+   "match": [
+    "punjab national",
+    "pnbsms",
+    "pnb"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "canarabank",
+   "name": "Canara Bank",
+   "match": [
+    "canara",
+    "cnrbnk"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "unionbank",
+   "name": "Union Bank of India",
+   "match": [
+    "union bank",
+    "unionb",
+    "ubinb"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "bankofindia",
+   "name": "Bank of India",
+   "match": [
+    "bank of india",
+    "boiind",
+    "boi "
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "indianbank",
+   "name": "Indian Bank",
+   "match": [
+    "indian bank",
+    "indbnk"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "hsbc",
+   "name": "HSBC",
+   "match": [
+    "hsbc",
+    "hsbcin"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "aubank",
+   "name": "AU Small Finance Bank",
+   "match": [
+    "au bank",
+    "au small",
+    "aubank"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "rblbank",
+   "name": "RBL Bank",
+   "match": [
+    "rbl",
+    "rblbnk"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "standardchartered",
+   "name": "Standard Chartered",
+   "match": [
+    "standard chartered",
+    "scbank",
+    "stanchart"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "amex",
+   "name": "American Express",
+   "match": [
+    "american express",
+    "amex"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "onecard",
+   "name": "OneCard",
+   "match": [
+    "onecard",
+    "one card"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "centralbank",
+   "name": "Central Bank of India",
+   "match": [
+    "central bank",
+    "cbiind"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "iob",
+   "name": "Indian Overseas Bank",
+   "match": [
+    "indian overseas",
+    "iobchn",
+    "iob"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "ucobank",
+   "name": "UCO Bank",
+   "match": [
+    "uco bank",
+    "ucobnk"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "southindianbank",
+   "name": "South Indian Bank",
+   "match": [
+    "south indian bank",
+    "sibsms"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "kvb",
+   "name": "Karur Vysya Bank",
+   "match": [
+    "karur vysya",
+    "kvbank",
+    "kvb"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "cityunionbank",
+   "name": "City Union Bank",
+   "match": [
+    "city union",
+    "cubank"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "tmb",
+   "name": "Tamilnad Mercantile Bank",
+   "match": [
+    "tamilnad mercantile",
+    "tmbank"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "bandhan",
+   "name": "Bandhan Bank",
+   "match": [
+    "bandhan"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "idbi",
+   "name": "IDBI Bank",
+   "match": [
+    "idbi"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "equitas",
+   "name": "Equitas Bank",
+   "match": [
+    "equitas"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "ujjivan",
+   "name": "Ujjivan Small Finance Bank",
+   "match": [
+    "ujjivan"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "karnatakabank",
+   "name": "Karnataka Bank",
+   "match": [
+    "karnataka bank",
+    "kblbnk"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "dcbbank",
+   "name": "DCB Bank",
+   "match": [
+    "dcb bank",
+    "dcbbnk"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "citi",
+   "name": "Citibank",
+   "match": [
+    "citibank",
+    "citi"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "dbs",
+   "name": "DBS Bank",
+   "match": [
+    "dbs bank",
+    "dbsbnk",
+    "digibank"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "slice",
+   "name": "slice",
+   "match": [
+    "slice"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "jupiter",
+   "name": "Jupiter",
+   "match": [
+    "jupiter"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "fimoney",
+   "name": "Fi Money",
+   "match": [
+    "fi money",
+    "fimony"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "bajajfinserv",
+   "name": "Bajaj Finserv",
+   "match": [
+    "bajaj finserv",
+    "bajaj finance",
+    "bajajf",
+    "bajfin"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "phonepe",
+   "name": "PhonePe",
+   "match": [
+    "phonepe",
+    "phonpe"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "googlepay",
+   "name": "Google Pay",
+   "match": [
+    "google pay",
+    "gpay",
+    "googlepay"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "paytm",
+   "name": "Paytm",
+   "match": [
+    "paytm"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "amazonpay",
+   "name": "Amazon Pay",
+   "match": [
+    "amazon pay",
+    "amazonpay",
+    "apay"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "cred",
+   "name": "CRED",
+   "match": [
+    "cred"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "mobikwik",
+   "name": "MobiKwik",
+   "match": [
+    "mobikwik"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "bhim",
+   "name": "BHIM",
+   "match": [
+    "bhim"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "freecharge",
+   "name": "Freecharge",
+   "match": [
+    "freecharge"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "navi",
+   "name": "Navi",
+   "match": [
+    "navi"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "supermoney",
+   "name": "super.money",
+   "match": [
+    "super.money",
+    "supermoney"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "amazon",
+   "name": "Amazon",
+   "match": [
+    "amazon",
+    "amzn"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "flipkart",
+   "name": "Flipkart",
+   "match": [
+    "flipkart",
+    "flpkrt",
+    "fkrt"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "myntra",
+   "name": "Myntra",
+   "match": [
+    "myntra"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "meesho",
+   "name": "Meesho",
+   "match": [
+    "meesho"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "ajio",
+   "name": "AJIO",
+   "match": [
+    "ajio"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "nykaa",
+   "name": "Nykaa",
+   "match": [
+    "nykaa"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "tatacliq",
+   "name": "Tata CLiQ",
+   "match": [
+    "tata cliq",
+    "tatacliq"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "croma",
+   "name": "Croma",
+   "match": [
+    "croma"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "reliancedigital",
+   "name": "Reliance Digital",
+   "match": [
+    "reliance digital"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "jiomart",
+   "name": "JioMart",
+   "match": [
+    "jiomart",
+    "jio mart"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "bigbasket",
+   "name": "bigbasket",
+   "match": [
+    "bigbasket",
+    "big basket",
+    "bbdaily"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "blinkit",
+   "name": "Blinkit",
+   "match": [
+    "blinkit",
+    "grofers"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "zepto",
+   "name": "Zepto",
+   "match": [
+    "zepto"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "dmart",
+   "name": "DMart",
+   "match": [
+    "dmart",
+    "d mart",
+    "avenue supermarts"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "firstcry",
+   "name": "FirstCry",
+   "match": [
+    "firstcry"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "lenskart",
+   "name": "Lenskart",
+   "match": [
+    "lenskart"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "decathlon",
+   "name": "Decathlon",
+   "match": [
+    "decathlon"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "ikea",
+   "name": "IKEA",
+   "match": [
+    "ikea"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "zara",
+   "name": "Zara",
+   "match": [
+    "zara"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "urbancompany",
+   "name": "Urban Company",
+   "match": [
+    "urban company",
+    "urbanclap",
+    "urbanco"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "snapdeal",
+   "name": "Snapdeal",
+   "match": [
+    "snapdeal"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "shopsy",
+   "name": "Shopsy",
+   "match": [
+    "shopsy"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "purplle",
+   "name": "Purplle",
+   "match": [
+    "purplle"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "pepperfry",
+   "name": "Pepperfry",
+   "match": [
+    "pepperfry"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "mamaearth",
+   "name": "Mamaearth",
+   "match": [
+    "mamaearth"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "apple",
+   "name": "Apple",
+   "match": [
+    "apple",
+    "itunes"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "samsung",
+   "name": "Samsung",
+   "match": [
+    "samsung"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "xiaomi",
+   "name": "Xiaomi",
+   "match": [
+    "xiaomi",
+    "redmi"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "vivo",
+   "name": "vivo",
+   "match": [
+    "vivo"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "oneplus",
+   "name": "OnePlus",
+   "match": [
+    "oneplus"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "westside",
+   "name": "Westside",
+   "match": [
+    "westside"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "maxfashion",
+   "name": "Max Fashion",
+   "match": [
+    "max fashion",
+    "maxfashion"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "pantaloons",
+   "name": "Pantaloons",
+   "match": [
+    "pantaloons"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "swiggy",
+   "name": "Swiggy",
+   "match": [
+    "swiggy",
+    "instamart"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "zomato",
+   "name": "Zomato",
+   "match": [
+    "zomato"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "dominos",
+   "name": "Domino's",
+   "match": [
+    "domino",
+    "jubilant foodworks"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "mcdonalds",
+   "name": "McDonald's",
+   "match": [
+    "mcdonald",
+    "hardcastle"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "kfc",
+   "name": "KFC",
+   "match": [
+    "kfc"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "starbucks",
+   "name": "Starbucks",
+   "match": [
+    "starbucks",
+    "tata starbucks"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "pizzahut",
+   "name": "Pizza Hut",
+   "match": [
+    "pizza hut",
+    "pizzahut"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "burgerking",
+   "name": "Burger King",
+   "match": [
+    "burger king",
+    "burgerking"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "eatsure",
+   "name": "EatSure",
+   "match": [
+    "eatsure"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "uber",
+   "name": "Uber",
+   "match": [
+    "uber"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "ola",
+   "name": "Ola",
+   "match": [
+    "ola cabs",
+    "olacabs",
+    "ani technologies",
+    "ola"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "rapido",
+   "name": "Rapido",
+   "match": [
+    "rapido"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "irctc",
+   "name": "IRCTC",
+   "match": [
+    "irctc"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "makemytrip",
+   "name": "MakeMyTrip",
+   "match": [
+    "makemytrip",
+    "mmt"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "goibibo",
+   "name": "Goibibo",
+   "match": [
+    "goibibo"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "redbus",
+   "name": "redBus",
+   "match": [
+    "redbus"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "indigo",
+   "name": "IndiGo",
+   "match": [
+    "indigo",
+    "interglobe"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "airindia",
+   "name": "Air India",
+   "match": [
+    "air india",
+    "airindia"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "cleartrip",
+   "name": "Cleartrip",
+   "match": [
+    "cleartrip"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "ixigo",
+   "name": "ixigo",
+   "match": [
+    "ixigo"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "akasaair",
+   "name": "Akasa Air",
+   "match": [
+    "akasa"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "spicejet",
+   "name": "SpiceJet",
+   "match": [
+    "spicejet"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "oyo",
+   "name": "OYO",
+   "match": [
+    "oyo"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "airbnb",
+   "name": "Airbnb",
+   "match": [
+    "airbnb"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "booking",
+   "name": "Booking.com",
+   "match": [
+    "booking.com"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "yatra",
+   "name": "Yatra",
+   "match": [
+    "yatra"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "nammayatri",
+   "name": "Namma Yatri",
+   "match": [
+    "namma yatri",
+    "nammayatri"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "jio",
+   "name": "Jio",
+   "match": [
+    "jio",
+    "reliance jio"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "airtel",
+   "name": "Airtel",
+   "match": [
+    "airtel"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "vi",
+   "name": "Vi",
+   "match": [
+    "vodafone",
+    "idea cellular",
+    "vi "
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "bsnl",
+   "name": "BSNL",
+   "match": [
+    "bsnl"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "tataplay",
+   "name": "Tata Play",
+   "match": [
+    "tata play",
+    "tata sky",
+    "tataplay"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "actfibernet",
+   "name": "ACT Fibernet",
+   "match": [
+    "act fibernet",
+    "atria convergence"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "dishtv",
+   "name": "Dish TV",
+   "match": [
+    "dish tv",
+    "dishtv"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "tatapower",
+   "name": "Tata Power",
+   "match": [
+    "tata power"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "adanielectricity",
+   "name": "Adani Electricity",
+   "match": [
+    "adani electricity",
+    "adani"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "indane",
+   "name": "Indane Gas",
+   "match": [
+    "indane"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "bharatgas",
+   "name": "Bharat Gas",
+   "match": [
+    "bharat gas",
+    "bharatgas",
+    "bpcl"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "hpgas",
+   "name": "HP Gas",
+   "match": [
+    "hp gas",
+    "hpgas",
+    "hpcl"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "netflix",
+   "name": "Netflix",
+   "match": [
+    "netflix"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "primevideo",
+   "name": "Prime Video",
+   "match": [
+    "prime video",
+    "amazon prime",
+    "primevideo"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "hotstar",
+   "name": "JioHotstar",
+   "match": [
+    "hotstar",
+    "disney+",
+    "jiohotstar",
+    "novi digital",
+    "jiocinema",
+    "jio cinema"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "sonyliv",
+   "name": "Sony LIV",
+   "match": [
+    "sonyliv",
+    "sony liv"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "zee5",
+   "name": "ZEE5",
+   "match": [
+    "zee5"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "spotify",
+   "name": "Spotify",
+   "match": [
+    "spotify"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "youtube",
+   "name": "YouTube",
+   "match": [
+    "youtube",
+    "yt premium"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "googleone",
+   "name": "Google One",
+   "match": [
+    "google one",
+    "google storage"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "google",
+   "name": "Google",
+   "match": [
+    "google",
+    "google play",
+    "play store",
+    "googleplay",
+    "google *"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "microsoft",
+   "name": "Microsoft",
+   "match": [
+    "microsoft",
+    "msft",
+    "xbox",
+    "office 365"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "openai",
+   "name": "ChatGPT",
+   "match": [
+    "openai",
+    "chatgpt"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "anthropic",
+   "name": "Claude",
+   "match": [
+    "anthropic",
+    "claude.ai"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "canva",
+   "name": "Canva",
+   "match": [
+    "canva"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "adobe",
+   "name": "Adobe",
+   "match": [
+    "adobe"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "linkedin",
+   "name": "LinkedIn",
+   "match": [
+    "linkedin"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "instagram",
+   "name": "Instagram",
+   "match": [
+    "instagram"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "facebook",
+   "name": "Facebook",
+   "match": [
+    "facebook",
+    "meta platforms"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "whatsapp",
+   "name": "WhatsApp",
+   "match": [
+    "whatsapp"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "x",
+   "name": "X",
+   "match": [
+    "twitter",
+    "x corp"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "telegram",
+   "name": "Telegram",
+   "match": [
+    "telegram"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "snapchat",
+   "name": "Snapchat",
+   "match": [
+    "snapchat"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "gmail",
+   "name": "Gmail",
+   "match": [
+    "gmail"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "aha",
+   "name": "aha",
+   "match": [
+    "aha video",
+    "arha media"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "gaana",
+   "name": "Gaana",
+   "match": [
+    "gaana"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "wynk",
+   "name": "Wynk Music",
+   "match": [
+    "wynk"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "jiosaavn",
+   "name": "JioSaavn",
+   "match": [
+    "jiosaavn",
+    "saavn"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "audible",
+   "name": "Audible",
+   "match": [
+    "audible"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "kindle",
+   "name": "Kindle",
+   "match": [
+    "kindle"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "zerodha",
+   "name": "Zerodha",
+   "match": [
+    "zerodha",
+    "kite"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "groww",
+   "name": "Groww",
+   "match": [
+    "groww"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "upstox",
+   "name": "Upstox",
+   "match": [
+    "upstox"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "angelone",
+   "name": "Angel One",
+   "match": [
+    "angel one",
+    "angel broking"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "lic",
+   "name": "LIC",
+   "match": [
+    "lic of india",
+    "licindia",
+    "life insurance corp",
+    "lic"
+   ],
+   "tier": "core",
+   "full": false
+  },
+  {
+   "key": "policybazaar",
+   "name": "Policybazaar",
+   "match": [
+    "policybazaar"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "acko",
+   "name": "ACKO",
+   "match": [
+    "acko"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "starhealth",
+   "name": "Star Health",
+   "match": [
+    "star health"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "hdfclife",
+   "name": "HDFC Life",
+   "match": [
+    "hdfc life"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "hdfcergo",
+   "name": "HDFC ERGO",
+   "match": [
+    "hdfc ergo"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "icicilombard",
+   "name": "ICICI Lombard",
+   "match": [
+    "icici lombard"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "sbilife",
+   "name": "SBI Life",
+   "match": [
+    "sbi life"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "tataaia",
+   "name": "Tata AIA",
+   "match": [
+    "tata aia"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "apollo",
+   "name": "Apollo",
+   "match": [
+    "apollo"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "pharmeasy",
+   "name": "PharmEasy",
+   "match": [
+    "pharmeasy"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "tata1mg",
+   "name": "Tata 1mg",
+   "match": [
+    "1mg",
+    "tata 1mg"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "netmeds",
+   "name": "Netmeds",
+   "match": [
+    "netmeds"
+   ],
+   "tier": "extra",
+   "full": false
+  },
+  {
+   "key": "practo",
+   "name": "Practo",
+   "match": [
+    "practo"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "cultfit",
+   "name": "cult.fit",
+   "match": [
+    "cult.fit",
+    "cultfit",
+    "curefit"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "bookmyshow",
+   "name": "BookMyShow",
+   "match": [
+    "bookmyshow",
+    "bigtree"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "pvr",
+   "name": "PVR INOX",
+   "match": [
+    "pvr",
+    "inox"
+   ],
+   "tier": "core",
+   "full": true
+  },
+  {
+   "key": "district",
+   "name": "District",
+   "match": [
+    "district"
+   ],
+   "tier": "extra",
+   "full": true
+  },
+  {
+   "key": "dream11",
+   "name": "Dream11",
+   "match": [
+    "dream11"
+   ],
+   "tier": "extra",
+   "full": false
+  }
+ ]
+}
