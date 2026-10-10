@@ -1,0 +1,2126 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "key": "sbi",
+   "name": "State Bank of India",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "sbi",
+    "state bank",
+    "sbiinb",
+    "yono"
+   ],
+   "site": "sbi.co.in",
+   "app": "com.sbi.lotusintouch"
+  },
+  {
+   "key": "sbicard",
+   "name": "SBI Card",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "sbi card",
+    "sbicard",
+    "sbicrd"
+   ],
+   "site": "sbicard.com",
+   "app": null
+  },
+  {
+   "key": "hdfcbank",
+   "name": "HDFC Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "hdfc",
+    "hdfcbk"
+   ],
+   "site": "hdfcbank.com",
+   "app": null
+  },
+  {
+   "key": "icicibank",
+   "name": "ICICI Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "icici",
+    "icicib"
+   ],
+   "site": "icicibank.com",
+   "app": null
+  },
+  {
+   "key": "axisbank",
+   "name": "Axis Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "axis bank",
+    "axisbk",
+    "axis"
+   ],
+   "site": "axisbank.com",
+   "app": null
+  },
+  {
+   "key": "kotak",
+   "name": "Kotak Mahindra Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "kotak",
+    "kotakb"
+   ],
+   "site": "kotak.com",
+   "app": "com.kotak.bank.mobile"
+  },
+  {
+   "key": "yesbank",
+   "name": "Yes Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "yes bank",
+    "yesbnk"
+   ],
+   "site": "yesbank.in",
+   "app": null
+  },
+  {
+   "key": "indusind",
+   "name": "IndusInd Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "indusind",
+    "indusb"
+   ],
+   "site": "indusind.com",
+   "app": null
+  },
+  {
+   "key": "idfcfirst",
+   "name": "IDFC FIRST Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "idfc",
+    "idfcfb"
+   ],
+   "site": "idfcfirstbank.com",
+   "app": null
+  },
+  {
+   "key": "federalbank",
+   "name": "Federal Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "federal bank",
+    "fedbnk",
+    "federal"
+   ],
+   "site": "federalbank.co.in",
+   "app": null
+  },
+  {
+   "key": "bankofbaroda",
+   "name": "Bank of Baroda",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "bank of baroda",
+    "bobtxn",
+    "bobcrd",
+    "baroda"
+   ],
+   "site": "bankofbaroda.in",
+   "app": "com.bankofbaroda.bobworlddmb"
+  },
+  {
+   "key": "pnb",
+   "name": "Punjab National Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "punjab national",
+    "pnbsms",
+    "pnb"
+   ],
+   "site": "pnbindia.in",
+   "app": null
+  },
+  {
+   "key": "canarabank",
+   "name": "Canara Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "canara",
+    "cnrbnk"
+   ],
+   "site": "canarabank.com",
+   "app": null
+  },
+  {
+   "key": "unionbank",
+   "name": "Union Bank of India",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "union bank",
+    "unionb",
+    "ubinb"
+   ],
+   "site": "unionbankofindia.co.in",
+   "app": null
+  },
+  {
+   "key": "bankofindia",
+   "name": "Bank of India",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "bank of india",
+    "boiind",
+    "boi "
+   ],
+   "site": "bankofindia.co.in",
+   "app": null
+  },
+  {
+   "key": "indianbank",
+   "name": "Indian Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "indian bank",
+    "indbnk"
+   ],
+   "site": "indianbank.in",
+   "app": null
+  },
+  {
+   "key": "hsbc",
+   "name": "HSBC",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "hsbc",
+    "hsbcin"
+   ],
+   "site": "hsbc.co.in",
+   "app": null
+  },
+  {
+   "key": "aubank",
+   "name": "AU Small Finance Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "au bank",
+    "au small",
+    "aubank"
+   ],
+   "site": "au.bank.in",
+   "app": null
+  },
+  {
+   "key": "rblbank",
+   "name": "RBL Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "rbl",
+    "rblbnk"
+   ],
+   "site": "rblbank.com",
+   "app": null
+  },
+  {
+   "key": "standardchartered",
+   "name": "Standard Chartered",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "standard chartered",
+    "scbank",
+    "stanchart"
+   ],
+   "site": "sc.com",
+   "app": null
+  },
+  {
+   "key": "amex",
+   "name": "American Express",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "american express",
+    "amex"
+   ],
+   "site": "americanexpress.com",
+   "app": null
+  },
+  {
+   "key": "onecard",
+   "name": "OneCard",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "onecard",
+    "one card"
+   ],
+   "site": "getonecard.app",
+   "app": null
+  },
+  {
+   "key": "centralbank",
+   "name": "Central Bank of India",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "central bank",
+    "cbiind"
+   ],
+   "site": "centralbankofindia.co.in",
+   "app": null
+  },
+  {
+   "key": "iob",
+   "name": "Indian Overseas Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "indian overseas",
+    "iobchn",
+    "iob"
+   ],
+   "site": "iob.in",
+   "app": null
+  },
+  {
+   "key": "ucobank",
+   "name": "UCO Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "uco bank",
+    "ucobnk"
+   ],
+   "site": "ucobank.com",
+   "app": null
+  },
+  {
+   "key": "southindianbank",
+   "name": "South Indian Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "south indian bank",
+    "sibsms"
+   ],
+   "site": "southindianbank.com",
+   "app": null
+  },
+  {
+   "key": "kvb",
+   "name": "Karur Vysya Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "karur vysya",
+    "kvbank",
+    "kvb"
+   ],
+   "site": "kvb.co.in",
+   "app": null
+  },
+  {
+   "key": "cityunionbank",
+   "name": "City Union Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "city union",
+    "cubank"
+   ],
+   "site": "cityunionbank.com",
+   "app": null
+  },
+  {
+   "key": "tmb",
+   "name": "Tamilnad Mercantile Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "tamilnad mercantile",
+    "tmbank"
+   ],
+   "site": "tmb.in",
+   "app": null
+  },
+  {
+   "key": "bandhan",
+   "name": "Bandhan Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "bandhan"
+   ],
+   "site": "bandhanbank.com",
+   "app": null
+  },
+  {
+   "key": "idbi",
+   "name": "IDBI Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "idbi"
+   ],
+   "site": "idbibank.in",
+   "app": null
+  },
+  {
+   "key": "equitas",
+   "name": "Equitas Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "equitas"
+   ],
+   "site": "equitas.bank",
+   "app": null
+  },
+  {
+   "key": "ujjivan",
+   "name": "Ujjivan Small Finance Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "ujjivan"
+   ],
+   "site": "ujjivansfb.in",
+   "app": null
+  },
+  {
+   "key": "karnatakabank",
+   "name": "Karnataka Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "karnataka bank",
+    "kblbnk"
+   ],
+   "site": "karnatakabank.com",
+   "app": null
+  },
+  {
+   "key": "dcbbank",
+   "name": "DCB Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "dcb bank",
+    "dcbbnk"
+   ],
+   "site": "dcbbank.com",
+   "app": null
+  },
+  {
+   "key": "citi",
+   "name": "Citibank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "citibank",
+    "citi"
+   ],
+   "site": "citi.com",
+   "app": null
+  },
+  {
+   "key": "dbs",
+   "name": "DBS Bank",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "dbs bank",
+    "dbsbnk",
+    "digibank"
+   ],
+   "site": "dbs.com",
+   "app": null
+  },
+  {
+   "key": "slice",
+   "name": "slice",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "slice"
+   ],
+   "site": "sliceit.com",
+   "app": null
+  },
+  {
+   "key": "jupiter",
+   "name": "Jupiter",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "jupiter"
+   ],
+   "site": "jupiter.money",
+   "app": null
+  },
+  {
+   "key": "fimoney",
+   "name": "Fi Money",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "fi money",
+    "fimony"
+   ],
+   "site": "fi.money",
+   "app": null
+  },
+  {
+   "key": "bajajfinserv",
+   "name": "Bajaj Finserv",
+   "type": "bank",
+   "cat": null,
+   "match": [
+    "bajaj finserv",
+    "bajaj finance",
+    "bajajf",
+    "bajfin"
+   ],
+   "site": "bajajfinserv.in",
+   "app": null
+  },
+  {
+   "key": "phonepe",
+   "name": "PhonePe",
+   "type": "upi",
+   "cat": null,
+   "match": [
+    "phonepe",
+    "phonpe"
+   ],
+   "site": "phonepe.com",
+   "app": "com.phonepe.app"
+  },
+  {
+   "key": "googlepay",
+   "name": "Google Pay",
+   "type": "upi",
+   "cat": null,
+   "match": [
+    "google pay",
+    "gpay",
+    "googlepay"
+   ],
+   "site": "pay.google.com",
+   "app": "com.google.android.apps.nbu.paisa.user"
+  },
+  {
+   "key": "paytm",
+   "name": "Paytm",
+   "type": "upi",
+   "cat": null,
+   "match": [
+    "paytm"
+   ],
+   "site": "paytm.com",
+   "app": "net.one97.paytm"
+  },
+  {
+   "key": "amazonpay",
+   "name": "Amazon Pay",
+   "type": "upi",
+   "cat": null,
+   "match": [
+    "amazon pay",
+    "amazonpay",
+    "apay"
+   ],
+   "site": "amazonpay.in",
+   "app": "in.amazon.mShop.android.shopping"
+  },
+  {
+   "key": "cred",
+   "name": "CRED",
+   "type": "upi",
+   "cat": null,
+   "match": [
+    "cred"
+   ],
+   "site": "cred.club",
+   "app": "com.dreamplug.androidapp"
+  },
+  {
+   "key": "mobikwik",
+   "name": "MobiKwik",
+   "type": "upi",
+   "cat": null,
+   "match": [
+    "mobikwik"
+   ],
+   "site": "mobikwik.com",
+   "app": null
+  },
+  {
+   "key": "bhim",
+   "name": "BHIM",
+   "type": "upi",
+   "cat": null,
+   "match": [
+    "bhim"
+   ],
+   "site": "bhimupi.org.in",
+   "app": "in.org.npci.upiapp"
+  },
+  {
+   "key": "freecharge",
+   "name": "Freecharge",
+   "type": "upi",
+   "cat": null,
+   "match": [
+    "freecharge"
+   ],
+   "site": "freecharge.in",
+   "app": null
+  },
+  {
+   "key": "navi",
+   "name": "Navi",
+   "type": "upi",
+   "cat": null,
+   "match": [
+    "navi"
+   ],
+   "site": "navi.com",
+   "app": null
+  },
+  {
+   "key": "supermoney",
+   "name": "super.money",
+   "type": "upi",
+   "cat": null,
+   "match": [
+    "super.money",
+    "supermoney"
+   ],
+   "site": "super.money",
+   "app": null
+  },
+  {
+   "key": "amazon",
+   "name": "Amazon",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "amazon",
+    "amzn"
+   ],
+   "site": "amazon.in",
+   "app": "in.amazon.mShop.android.shopping"
+  },
+  {
+   "key": "flipkart",
+   "name": "Flipkart",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "flipkart",
+    "flpkrt",
+    "fkrt"
+   ],
+   "site": "flipkart.com",
+   "app": "com.flipkart.android"
+  },
+  {
+   "key": "myntra",
+   "name": "Myntra",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "myntra"
+   ],
+   "site": "myntra.com",
+   "app": "com.myntra.android"
+  },
+  {
+   "key": "meesho",
+   "name": "Meesho",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "meesho"
+   ],
+   "site": "meesho.com",
+   "app": "com.meesho.supply"
+  },
+  {
+   "key": "ajio",
+   "name": "AJIO",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "ajio"
+   ],
+   "site": "ajio.com",
+   "app": null
+  },
+  {
+   "key": "nykaa",
+   "name": "Nykaa",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "nykaa"
+   ],
+   "site": "nykaa.com",
+   "app": null
+  },
+  {
+   "key": "tatacliq",
+   "name": "Tata CLiQ",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "tata cliq",
+    "tatacliq"
+   ],
+   "site": "tatacliq.com",
+   "app": null
+  },
+  {
+   "key": "croma",
+   "name": "Croma",
+   "type": "merchant",
+   "cat": "electronics",
+   "match": [
+    "croma"
+   ],
+   "site": "croma.com",
+   "app": null
+  },
+  {
+   "key": "reliancedigital",
+   "name": "Reliance Digital",
+   "type": "merchant",
+   "cat": "electronics",
+   "match": [
+    "reliance digital"
+   ],
+   "site": "reliancedigital.in",
+   "app": null
+  },
+  {
+   "key": "jiomart",
+   "name": "JioMart",
+   "type": "merchant",
+   "cat": "groceries",
+   "match": [
+    "jiomart",
+    "jio mart"
+   ],
+   "site": "jiomart.com",
+   "app": null
+  },
+  {
+   "key": "bigbasket",
+   "name": "bigbasket",
+   "type": "merchant",
+   "cat": "groceries",
+   "match": [
+    "bigbasket",
+    "big basket",
+    "bbdaily"
+   ],
+   "site": "bigbasket.com",
+   "app": null
+  },
+  {
+   "key": "blinkit",
+   "name": "Blinkit",
+   "type": "merchant",
+   "cat": "groceries",
+   "match": [
+    "blinkit",
+    "grofers"
+   ],
+   "site": "blinkit.com",
+   "app": null
+  },
+  {
+   "key": "zepto",
+   "name": "Zepto",
+   "type": "merchant",
+   "cat": "groceries",
+   "match": [
+    "zepto"
+   ],
+   "site": "zeptonow.com",
+   "app": null
+  },
+  {
+   "key": "dmart",
+   "name": "DMart",
+   "type": "merchant",
+   "cat": "groceries",
+   "match": [
+    "dmart",
+    "d mart",
+    "avenue supermarts"
+   ],
+   "site": "dmart.in",
+   "app": null
+  },
+  {
+   "key": "firstcry",
+   "name": "FirstCry",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "firstcry"
+   ],
+   "site": "firstcry.com",
+   "app": null
+  },
+  {
+   "key": "lenskart",
+   "name": "Lenskart",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "lenskart"
+   ],
+   "site": "lenskart.com",
+   "app": null
+  },
+  {
+   "key": "decathlon",
+   "name": "Decathlon",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "decathlon"
+   ],
+   "site": "decathlon.in",
+   "app": null
+  },
+  {
+   "key": "ikea",
+   "name": "IKEA",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "ikea"
+   ],
+   "site": "ikea.com",
+   "app": null
+  },
+  {
+   "key": "hm",
+   "name": "H&M",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "h&m",
+    "h & m",
+    "hennes"
+   ],
+   "site": "hm.com",
+   "app": null
+  },
+  {
+   "key": "zara",
+   "name": "Zara",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "zara"
+   ],
+   "site": "zara.com",
+   "app": null
+  },
+  {
+   "key": "urbancompany",
+   "name": "Urban Company",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "urban company",
+    "urbanclap",
+    "urbanco"
+   ],
+   "site": "urbancompany.com",
+   "app": null
+  },
+  {
+   "key": "snapdeal",
+   "name": "Snapdeal",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "snapdeal"
+   ],
+   "site": "snapdeal.com",
+   "app": null
+  },
+  {
+   "key": "shopsy",
+   "name": "Shopsy",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "shopsy"
+   ],
+   "site": "shopsy.in",
+   "app": null
+  },
+  {
+   "key": "purplle",
+   "name": "Purplle",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "purplle"
+   ],
+   "site": "purplle.com",
+   "app": null
+  },
+  {
+   "key": "pepperfry",
+   "name": "Pepperfry",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "pepperfry"
+   ],
+   "site": "pepperfry.com",
+   "app": null
+  },
+  {
+   "key": "mamaearth",
+   "name": "Mamaearth",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "mamaearth"
+   ],
+   "site": "mamaearth.in",
+   "app": null
+  },
+  {
+   "key": "boat",
+   "name": "boAt",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "boat lifestyle",
+    "boat-lifestyle",
+    "imagine marketing"
+   ],
+   "site": "boat-lifestyle.com",
+   "app": null
+  },
+  {
+   "key": "apple",
+   "name": "Apple",
+   "type": "merchant",
+   "cat": "electronics",
+   "match": [
+    "apple",
+    "itunes"
+   ],
+   "site": "apple.com",
+   "app": null
+  },
+  {
+   "key": "samsung",
+   "name": "Samsung",
+   "type": "merchant",
+   "cat": "electronics",
+   "match": [
+    "samsung"
+   ],
+   "site": "samsung.com",
+   "app": null
+  },
+  {
+   "key": "xiaomi",
+   "name": "Xiaomi",
+   "type": "merchant",
+   "cat": "electronics",
+   "match": [
+    "xiaomi",
+    "redmi"
+   ],
+   "site": "mi.com",
+   "app": null
+  },
+  {
+   "key": "vivo",
+   "name": "vivo",
+   "type": "merchant",
+   "cat": "electronics",
+   "match": [
+    "vivo"
+   ],
+   "site": "vivo.com",
+   "app": null
+  },
+  {
+   "key": "oneplus",
+   "name": "OnePlus",
+   "type": "merchant",
+   "cat": "electronics",
+   "match": [
+    "oneplus"
+   ],
+   "site": "oneplus.in",
+   "app": null
+  },
+  {
+   "key": "westside",
+   "name": "Westside",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "westside"
+   ],
+   "site": "westside.com",
+   "app": null
+  },
+  {
+   "key": "trends",
+   "name": "Reliance Trends",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "reliance trends",
+    "trends"
+   ],
+   "site": "reliancetrends.com",
+   "app": null
+  },
+  {
+   "key": "maxfashion",
+   "name": "Max Fashion",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "max fashion",
+    "maxfashion"
+   ],
+   "site": "maxfashion.in",
+   "app": null
+  },
+  {
+   "key": "pantaloons",
+   "name": "Pantaloons",
+   "type": "merchant",
+   "cat": "shopping",
+   "match": [
+    "pantaloons"
+   ],
+   "site": "pantaloons.com",
+   "app": null
+  },
+  {
+   "key": "swiggy",
+   "name": "Swiggy",
+   "type": "merchant",
+   "cat": "food",
+   "match": [
+    "swiggy",
+    "instamart"
+   ],
+   "site": "swiggy.com",
+   "app": "in.swiggy.android"
+  },
+  {
+   "key": "zomato",
+   "name": "Zomato",
+   "type": "merchant",
+   "cat": "food",
+   "match": [
+    "zomato"
+   ],
+   "site": "zomato.com",
+   "app": "com.application.zomato"
+  },
+  {
+   "key": "dominos",
+   "name": "Domino's",
+   "type": "merchant",
+   "cat": "food",
+   "match": [
+    "domino",
+    "jubilant foodworks"
+   ],
+   "site": "dominos.co.in",
+   "app": null
+  },
+  {
+   "key": "mcdonalds",
+   "name": "McDonald's",
+   "type": "merchant",
+   "cat": "food",
+   "match": [
+    "mcdonald",
+    "hardcastle"
+   ],
+   "site": "mcdonaldsindia.com",
+   "app": null
+  },
+  {
+   "key": "kfc",
+   "name": "KFC",
+   "type": "merchant",
+   "cat": "food",
+   "match": [
+    "kfc"
+   ],
+   "site": "online.kfc.co.in",
+   "app": null
+  },
+  {
+   "key": "starbucks",
+   "name": "Starbucks",
+   "type": "merchant",
+   "cat": "food",
+   "match": [
+    "starbucks",
+    "tata starbucks"
+   ],
+   "site": "starbucks.in",
+   "app": null
+  },
+  {
+   "key": "pizzahut",
+   "name": "Pizza Hut",
+   "type": "merchant",
+   "cat": "food",
+   "match": [
+    "pizza hut",
+    "pizzahut"
+   ],
+   "site": "pizzahut.co.in",
+   "app": null
+  },
+  {
+   "key": "burgerking",
+   "name": "Burger King",
+   "type": "merchant",
+   "cat": "food",
+   "match": [
+    "burger king",
+    "burgerking"
+   ],
+   "site": "burgerking.in",
+   "app": null
+  },
+  {
+   "key": "eatsure",
+   "name": "EatSure",
+   "type": "merchant",
+   "cat": "food",
+   "match": [
+    "eatsure"
+   ],
+   "site": "eatsure.com",
+   "app": null
+  },
+  {
+   "key": "uber",
+   "name": "Uber",
+   "type": "merchant",
+   "cat": "transport",
+   "match": [
+    "uber"
+   ],
+   "site": "uber.com",
+   "app": "com.ubercab"
+  },
+  {
+   "key": "ola",
+   "name": "Ola",
+   "type": "merchant",
+   "cat": "transport",
+   "match": [
+    "ola cabs",
+    "olacabs",
+    "ani technologies",
+    "ola"
+   ],
+   "site": "olacabs.com",
+   "app": "com.olacabs.customer"
+  },
+  {
+   "key": "rapido",
+   "name": "Rapido",
+   "type": "merchant",
+   "cat": "transport",
+   "match": [
+    "rapido"
+   ],
+   "site": "rapido.bike",
+   "app": null
+  },
+  {
+   "key": "irctc",
+   "name": "IRCTC",
+   "type": "merchant",
+   "cat": "travel",
+   "match": [
+    "irctc"
+   ],
+   "site": "irctc.co.in",
+   "app": "cris.org.in.prs.ima"
+  },
+  {
+   "key": "makemytrip",
+   "name": "MakeMyTrip",
+   "type": "merchant",
+   "cat": "travel",
+   "match": [
+    "makemytrip",
+    "mmt"
+   ],
+   "site": "makemytrip.com",
+   "app": null
+  },
+  {
+   "key": "goibibo",
+   "name": "Goibibo",
+   "type": "merchant",
+   "cat": "travel",
+   "match": [
+    "goibibo"
+   ],
+   "site": "goibibo.com",
+   "app": null
+  },
+  {
+   "key": "redbus",
+   "name": "redBus",
+   "type": "merchant",
+   "cat": "travel",
+   "match": [
+    "redbus"
+   ],
+   "site": "redbus.in",
+   "app": null
+  },
+  {
+   "key": "indigo",
+   "name": "IndiGo",
+   "type": "merchant",
+   "cat": "travel",
+   "match": [
+    "indigo",
+    "interglobe"
+   ],
+   "site": "goindigo.in",
+   "app": null
+  },
+  {
+   "key": "airindia",
+   "name": "Air India",
+   "type": "merchant",
+   "cat": "travel",
+   "match": [
+    "air india",
+    "airindia"
+   ],
+   "site": "airindia.com",
+   "app": null
+  },
+  {
+   "key": "cleartrip",
+   "name": "Cleartrip",
+   "type": "merchant",
+   "cat": "travel",
+   "match": [
+    "cleartrip"
+   ],
+   "site": "cleartrip.com",
+   "app": null
+  },
+  {
+   "key": "ixigo",
+   "name": "ixigo",
+   "type": "merchant",
+   "cat": "travel",
+   "match": [
+    "ixigo"
+   ],
+   "site": "ixigo.com",
+   "app": null
+  },
+  {
+   "key": "akasaair",
+   "name": "Akasa Air",
+   "type": "merchant",
+   "cat": "travel",
+   "match": [
+    "akasa"
+   ],
+   "site": "akasaair.com",
+   "app": null
+  },
+  {
+   "key": "spicejet",
+   "name": "SpiceJet",
+   "type": "merchant",
+   "cat": "travel",
+   "match": [
+    "spicejet"
+   ],
+   "site": "spicejet.com",
+   "app": null
+  },
+  {
+   "key": "oyo",
+   "name": "OYO",
+   "type": "merchant",
+   "cat": "travel",
+   "match": [
+    "oyo"
+   ],
+   "site": "oyorooms.com",
+   "app": null
+  },
+  {
+   "key": "airbnb",
+   "name": "Airbnb",
+   "type": "merchant",
+   "cat": "travel",
+   "match": [
+    "airbnb"
+   ],
+   "site": "airbnb.com",
+   "app": null
+  },
+  {
+   "key": "booking",
+   "name": "Booking.com",
+   "type": "merchant",
+   "cat": "travel",
+   "match": [
+    "booking.com"
+   ],
+   "site": "booking.com",
+   "app": null
+  },
+  {
+   "key": "yatra",
+   "name": "Yatra",
+   "type": "merchant",
+   "cat": "travel",
+   "match": [
+    "yatra"
+   ],
+   "site": "yatra.com",
+   "app": null
+  },
+  {
+   "key": "nammayatri",
+   "name": "Namma Yatri",
+   "type": "merchant",
+   "cat": "transport",
+   "match": [
+    "namma yatri",
+    "nammayatri"
+   ],
+   "site": "nammayatri.in",
+   "app": null
+  },
+  {
+   "key": "fastag",
+   "name": "NETC FASTag",
+   "type": "merchant",
+   "cat": "transport",
+   "match": [
+    "fastag",
+    "netc",
+    "npci"
+   ],
+   "site": "npci.org.in",
+   "app": null
+  },
+  {
+   "key": "jio",
+   "name": "Jio",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "jio",
+    "reliance jio"
+   ],
+   "site": "jio.com",
+   "app": "com.jio.myjio"
+  },
+  {
+   "key": "airtel",
+   "name": "Airtel",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "airtel"
+   ],
+   "site": "airtel.in",
+   "app": "com.myairtelapp"
+  },
+  {
+   "key": "vi",
+   "name": "Vi",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "vodafone",
+    "idea cellular",
+    "vi "
+   ],
+   "site": "myvi.in",
+   "app": "com.mventus.selfcare.activity"
+  },
+  {
+   "key": "bsnl",
+   "name": "BSNL",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "bsnl"
+   ],
+   "site": "bsnl.co.in",
+   "app": null
+  },
+  {
+   "key": "tataplay",
+   "name": "Tata Play",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "tata play",
+    "tata sky",
+    "tataplay"
+   ],
+   "site": "tataplay.com",
+   "app": null
+  },
+  {
+   "key": "actfibernet",
+   "name": "ACT Fibernet",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "act fibernet",
+    "atria convergence"
+   ],
+   "site": "actcorp.in",
+   "app": null
+  },
+  {
+   "key": "dishtv",
+   "name": "Dish TV",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "dish tv",
+    "dishtv"
+   ],
+   "site": "dishtv.in",
+   "app": null
+  },
+  {
+   "key": "tatapower",
+   "name": "Tata Power",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "tata power"
+   ],
+   "site": "tatapower.com",
+   "app": null
+  },
+  {
+   "key": "adanielectricity",
+   "name": "Adani Electricity",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "adani electricity",
+    "adani"
+   ],
+   "site": "adanielectricity.com",
+   "app": null
+  },
+  {
+   "key": "indane",
+   "name": "Indane Gas",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "indane"
+   ],
+   "site": "indane.co.in",
+   "app": null
+  },
+  {
+   "key": "bharatgas",
+   "name": "Bharat Gas",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "bharat gas",
+    "bharatgas",
+    "bpcl"
+   ],
+   "site": "ebharatgas.com",
+   "app": null
+  },
+  {
+   "key": "hpgas",
+   "name": "HP Gas",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "hp gas",
+    "hpgas",
+    "hpcl"
+   ],
+   "site": "myhpgas.in",
+   "app": null
+  },
+  {
+   "key": "netflix",
+   "name": "Netflix",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "netflix"
+   ],
+   "site": "netflix.com",
+   "app": "com.netflix.mediaclient"
+  },
+  {
+   "key": "primevideo",
+   "name": "Prime Video",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "prime video",
+    "amazon prime",
+    "primevideo"
+   ],
+   "site": "primevideo.com",
+   "app": "com.amazon.avod.thirdpartyclient"
+  },
+  {
+   "key": "hotstar",
+   "name": "JioHotstar",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "hotstar",
+    "disney+",
+    "jiohotstar",
+    "novi digital",
+    "jiocinema",
+    "jio cinema"
+   ],
+   "site": "hotstar.com",
+   "app": "in.startv.hotstar"
+  },
+  {
+   "key": "sonyliv",
+   "name": "Sony LIV",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "sonyliv",
+    "sony liv"
+   ],
+   "site": "sonyliv.com",
+   "app": null
+  },
+  {
+   "key": "zee5",
+   "name": "ZEE5",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "zee5"
+   ],
+   "site": "zee5.com",
+   "app": null
+  },
+  {
+   "key": "spotify",
+   "name": "Spotify",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "spotify"
+   ],
+   "site": "spotify.com",
+   "app": "com.spotify.music"
+  },
+  {
+   "key": "youtube",
+   "name": "YouTube",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "youtube",
+    "yt premium"
+   ],
+   "site": "youtube.com",
+   "app": "com.google.android.youtube"
+  },
+  {
+   "key": "googleone",
+   "name": "Google One",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "google one",
+    "google storage"
+   ],
+   "site": "one.google.com",
+   "app": "com.google.android.apps.subscriptions.red"
+  },
+  {
+   "key": "google",
+   "name": "Google",
+   "type": "merchant",
+   "cat": null,
+   "match": [
+    "google",
+    "google play",
+    "play store",
+    "googleplay",
+    "google *"
+   ],
+   "site": "google.com",
+   "app": "com.google.android.googlequicksearchbox"
+  },
+  {
+   "key": "microsoft",
+   "name": "Microsoft",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "microsoft",
+    "msft",
+    "xbox",
+    "office 365"
+   ],
+   "site": "microsoft.com",
+   "app": null
+  },
+  {
+   "key": "openai",
+   "name": "ChatGPT",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "openai",
+    "chatgpt"
+   ],
+   "site": "openai.com",
+   "app": "com.openai.chatgpt"
+  },
+  {
+   "key": "anthropic",
+   "name": "Claude",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "anthropic",
+    "claude.ai"
+   ],
+   "site": "claude.ai",
+   "app": "com.anthropic.claude"
+  },
+  {
+   "key": "canva",
+   "name": "Canva",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "canva"
+   ],
+   "site": "canva.com",
+   "app": null
+  },
+  {
+   "key": "adobe",
+   "name": "Adobe",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "adobe"
+   ],
+   "site": "adobe.com",
+   "app": null
+  },
+  {
+   "key": "linkedin",
+   "name": "LinkedIn",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "linkedin"
+   ],
+   "site": "linkedin.com",
+   "app": "com.linkedin.android"
+  },
+  {
+   "key": "instagram",
+   "name": "Instagram",
+   "type": "merchant",
+   "cat": null,
+   "match": [
+    "instagram"
+   ],
+   "site": "instagram.com",
+   "app": "com.instagram.android"
+  },
+  {
+   "key": "facebook",
+   "name": "Facebook",
+   "type": "merchant",
+   "cat": null,
+   "match": [
+    "facebook",
+    "meta platforms"
+   ],
+   "site": "facebook.com",
+   "app": "com.facebook.katana"
+  },
+  {
+   "key": "whatsapp",
+   "name": "WhatsApp",
+   "type": "merchant",
+   "cat": null,
+   "match": [
+    "whatsapp"
+   ],
+   "site": "whatsapp.com",
+   "app": "com.whatsapp"
+  },
+  {
+   "key": "x",
+   "name": "X",
+   "type": "merchant",
+   "cat": null,
+   "match": [
+    "twitter",
+    "x corp"
+   ],
+   "site": "x.com",
+   "app": "com.twitter.android"
+  },
+  {
+   "key": "telegram",
+   "name": "Telegram",
+   "type": "merchant",
+   "cat": null,
+   "match": [
+    "telegram"
+   ],
+   "site": "telegram.org",
+   "app": "org.telegram.messenger"
+  },
+  {
+   "key": "snapchat",
+   "name": "Snapchat",
+   "type": "merchant",
+   "cat": null,
+   "match": [
+    "snapchat"
+   ],
+   "site": "snapchat.com",
+   "app": "com.snapchat.android"
+  },
+  {
+   "key": "gmail",
+   "name": "Gmail",
+   "type": "merchant",
+   "cat": null,
+   "match": [
+    "gmail"
+   ],
+   "site": "mail.google.com",
+   "app": "com.google.android.gm"
+  },
+  {
+   "key": "aha",
+   "name": "aha",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "aha video",
+    "arha media"
+   ],
+   "site": "aha.video",
+   "app": null
+  },
+  {
+   "key": "gaana",
+   "name": "Gaana",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "gaana"
+   ],
+   "site": "gaana.com",
+   "app": null
+  },
+  {
+   "key": "wynk",
+   "name": "Wynk Music",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "wynk"
+   ],
+   "site": "wynk.in",
+   "app": null
+  },
+  {
+   "key": "jiosaavn",
+   "name": "JioSaavn",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "jiosaavn",
+    "saavn"
+   ],
+   "site": "jiosaavn.com",
+   "app": null
+  },
+  {
+   "key": "audible",
+   "name": "Audible",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "audible"
+   ],
+   "site": "audible.in",
+   "app": "com.audible.application"
+  },
+  {
+   "key": "kindle",
+   "name": "Kindle",
+   "type": "merchant",
+   "cat": "subscriptions",
+   "match": [
+    "kindle"
+   ],
+   "site": "amazon.in",
+   "app": "com.amazon.kindle"
+  },
+  {
+   "key": "zerodha",
+   "name": "Zerodha",
+   "type": "merchant",
+   "cat": "investments",
+   "match": [
+    "zerodha",
+    "kite"
+   ],
+   "site": "zerodha.com",
+   "app": null
+  },
+  {
+   "key": "groww",
+   "name": "Groww",
+   "type": "merchant",
+   "cat": "investments",
+   "match": [
+    "groww"
+   ],
+   "site": "groww.in",
+   "app": null
+  },
+  {
+   "key": "upstox",
+   "name": "Upstox",
+   "type": "merchant",
+   "cat": "investments",
+   "match": [
+    "upstox"
+   ],
+   "site": "upstox.com",
+   "app": null
+  },
+  {
+   "key": "angelone",
+   "name": "Angel One",
+   "type": "merchant",
+   "cat": "investments",
+   "match": [
+    "angel one",
+    "angel broking"
+   ],
+   "site": "angelone.in",
+   "app": null
+  },
+  {
+   "key": "lic",
+   "name": "LIC",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "lic of india",
+    "licindia",
+    "life insurance corp",
+    "lic"
+   ],
+   "site": "licindia.in",
+   "app": null
+  },
+  {
+   "key": "policybazaar",
+   "name": "Policybazaar",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "policybazaar"
+   ],
+   "site": "policybazaar.com",
+   "app": null
+  },
+  {
+   "key": "acko",
+   "name": "ACKO",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "acko"
+   ],
+   "site": "acko.com",
+   "app": null
+  },
+  {
+   "key": "starhealth",
+   "name": "Star Health",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "star health"
+   ],
+   "site": "starhealth.in",
+   "app": null
+  },
+  {
+   "key": "hdfclife",
+   "name": "HDFC Life",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "hdfc life"
+   ],
+   "site": "hdfclife.com",
+   "app": null
+  },
+  {
+   "key": "hdfcergo",
+   "name": "HDFC ERGO",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "hdfc ergo"
+   ],
+   "site": "hdfcergo.com",
+   "app": null
+  },
+  {
+   "key": "icicilombard",
+   "name": "ICICI Lombard",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "icici lombard"
+   ],
+   "site": "icicilombard.com",
+   "app": null
+  },
+  {
+   "key": "sbilife",
+   "name": "SBI Life",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "sbi life"
+   ],
+   "site": "sbilife.co.in",
+   "app": null
+  },
+  {
+   "key": "tataaia",
+   "name": "Tata AIA",
+   "type": "merchant",
+   "cat": "bills",
+   "match": [
+    "tata aia"
+   ],
+   "site": "tataaia.com",
+   "app": null
+  },
+  {
+   "key": "incometax",
+   "name": "Income Tax Dept",
+   "type": "merchant",
+   "cat": null,
+   "match": [
+    "income tax",
+    "incometax",
+    "itd"
+   ],
+   "site": "incometax.gov.in",
+   "app": null
+  },
+  {
+   "key": "epfo",
+   "name": "EPFO",
+   "type": "merchant",
+   "cat": null,
+   "match": [
+    "epfo",
+    "epfindia"
+   ],
+   "site": "epfindia.gov.in",
+   "app": null
+  },
+  {
+   "key": "apollo",
+   "name": "Apollo",
+   "type": "merchant",
+   "cat": "health",
+   "match": [
+    "apollo"
+   ],
+   "site": "apollo247.com",
+   "app": null
+  },
+  {
+   "key": "pharmeasy",
+   "name": "PharmEasy",
+   "type": "merchant",
+   "cat": "health",
+   "match": [
+    "pharmeasy"
+   ],
+   "site": "pharmeasy.in",
+   "app": null
+  },
+  {
+   "key": "tata1mg",
+   "name": "Tata 1mg",
+   "type": "merchant",
+   "cat": "health",
+   "match": [
+    "1mg",
+    "tata 1mg"
+   ],
+   "site": "1mg.com",
+   "app": null
+  },
+  {
+   "key": "netmeds",
+   "name": "Netmeds",
+   "type": "merchant",
+   "cat": "health",
+   "match": [
+    "netmeds"
+   ],
+   "site": "netmeds.com",
+   "app": null
+  },
+  {
+   "key": "practo",
+   "name": "Practo",
+   "type": "merchant",
+   "cat": "health",
+   "match": [
+    "practo"
+   ],
+   "site": "practo.com",
+   "app": null
+  },
+  {
+   "key": "cultfit",
+   "name": "cult.fit",
+   "type": "merchant",
+   "cat": "health",
+   "match": [
+    "cult.fit",
+    "cultfit",
+    "curefit"
+   ],
+   "site": "cult.fit",
+   "app": null
+  },
+  {
+   "key": "bookmyshow",
+   "name": "BookMyShow",
+   "type": "merchant",
+   "cat": "entertainment",
+   "match": [
+    "bookmyshow",
+    "bigtree"
+   ],
+   "site": "bookmyshow.com",
+   "app": null
+  },
+  {
+   "key": "pvr",
+   "name": "PVR INOX",
+   "type": "merchant",
+   "cat": "entertainment",
+   "match": [
+    "pvr",
+    "inox"
+   ],
+   "site": "pvrcinemas.com",
+   "app": null
+  },
+  {
+   "key": "district",
+   "name": "District",
+   "type": "merchant",
+   "cat": "entertainment",
+   "match": [
+    "district"
+   ],
+   "site": "district.in",
+   "app": "com.application.zomato.district"
+  },
+  {
+   "key": "dream11",
+   "name": "Dream11",
+   "type": "merchant",
+   "cat": "entertainment",
+   "match": [
+    "dream11"
+   ],
+   "site": "dream11.com",
+   "app": null
+  }
+ ]
+}

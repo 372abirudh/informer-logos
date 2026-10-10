@@ -1,0 +1,499 @@
+{
+ "format": 1,
+ "version": 1,
+ "published": "2026-10-10",
+ "files": [
+  {
+   "path": "manifest.json",
+   "pack": "logos",
+   "bytes": 23717,
+   "sha256": "4fddcabaf2facf147b49e6b2c839d1bc2246a1188370a28b7355f7035de959a5"
+  },
+  {
+   "path": "png/acko.png",
+   "pack": "logos",
+   "bytes": 2577,
+   "sha256": "748519dd50b7ac706578d18c6d97b1a340dc6d8d6144c467f76b9a19427cef94"
+  },
+  {
+   "path": "png/actfibernet.png",
+   "pack": "logos",
+   "bytes": 1530,
+   "sha256": "add37840c4874c1f3a2b67c338b8ab2734ec2142a6d32fb4001bd28f939a1a49"
+  },
+  {
+   "path": "png/adanielectricity.png",
+   "pack": "logos",
+   "bytes": 4299,
+   "sha256": "7959cb247f10d2473a6dea640747cc940616098a4de4887f5c89ad6bc95fe348"
+  },
+  {
+   "path": "png/adobe.png",
+   "pack": "logos",
+   "bytes": 1771,
+   "sha256": "d16bfe4279836b443292656842818abf35c8093ab559332bf7c80b167100cd40"
+  },
+  {
+   "path": "png/aha.png",
+   "pack": "logos",
+   "bytes": 2233,
+   "sha256": "537a62afc962cc6ba24ef6c74de59517822287372eb220585c53d697f0f37800"
+  },
+  {
+   "path": "png/airbnb.png",
+   "pack": "logos",
+   "bytes": 2409,
+   "sha256": "ecffec2668ce771d84c54ff4f24cebc2e798b513a98d4d6b1020f7330f60a44c"
+  },
+  {
+   "path": "png/akasaair.png",
+   "pack": "logos",
+   "bytes": 1590,
+   "sha256": "3589b26d2fd87388fa104b2486bb270dd0ee93f58ab676cfbaa939d70db1e176"
+  },
+  {
+   "path": "png/angelone.png",
+   "pack": "logos",
+   "bytes": 1401,
+   "sha256": "3450b668cdcee7870b206823c9ce37a6a58ea1ed18a5bba73d74d91ee7531d18"
+  },
+  {
+   "path": "png/anthropic.png",
+   "pack": "logos",
+   "bytes": 2862,
+   "sha256": "ec9d72e9afb102d2b46e26ab7d7abfb1e4b9b88b387c7d4b2b87287cddcf2e2f"
+  },
+  {
+   "path": "png/audible.png",
+   "pack": "logos",
+   "bytes": 1411,
+   "sha256": "c8fde9b8516e4c93f4269f98bad080ca992fd4b8c392715a3eae5dd07b4d9e09"
+  },
+  {
+   "path": "png/bandhan.png",
+   "pack": "logos",
+   "bytes": 2854,
+   "sha256": "bbdf147586e964155e27d038c7b1ae512679bf172b9e42b085db188f37418093"
+  },
+  {
+   "path": "png/bharatgas.png",
+   "pack": "logos",
+   "bytes": 5537,
+   "sha256": "04cd87f022a5338574bd8dd2e2273a44b1006ba3507b5a88c47777e47c4159d2"
+  },
+  {
+   "path": "png/bhim.png",
+   "pack": "logos",
+   "bytes": 1581,
+   "sha256": "49aa7c9b0f6bac2cbf92ab82533674d3df4150edca0a3f82061ae68277f1fcfb"
+  },
+  {
+   "path": "png/booking.png",
+   "pack": "logos",
+   "bytes": 1368,
+   "sha256": "83bbe5a50ac4d6119e58c6f78d2d5c789ac9e3cdbcfa4ad04df8ec7a843c6580"
+  },
+  {
+   "path": "png/burgerking.png",
+   "pack": "logos",
+   "bytes": 2848,
+   "sha256": "456f603cf4edfbdf3682167bb7b2bd5d1c4f42190b7917588b603c231983ba72"
+  },
+  {
+   "path": "png/canva.png",
+   "pack": "logos",
+   "bytes": 5084,
+   "sha256": "6745700782cf1a80ffe40580ef3bf485c7bb79e3aac2c7c95957f14c4ccc54d7"
+  },
+  {
+   "path": "png/centralbank.png",
+   "pack": "logos",
+   "bytes": 7384,
+   "sha256": "7bcae0113bfa4da831f32bcddef8e06f0aa8fe14bf6d34a7e573d290bb01963e"
+  },
+  {
+   "path": "png/citi.png",
+   "pack": "logos",
+   "bytes": 1748,
+   "sha256": "51c2f12641462297b9eb372f83c0d9e5763b5a055aad58181e92973c83f8d37c"
+  },
+  {
+   "path": "png/cityunionbank.png",
+   "pack": "logos",
+   "bytes": 6475,
+   "sha256": "5b005f629bdf7950c3114058acc2fe57765c4e01ff6a92de8e898259cea09884"
+  },
+  {
+   "path": "png/cleartrip.png",
+   "pack": "logos",
+   "bytes": 1808,
+   "sha256": "b9fa64017004e09d63e82813d8948ca8de79d04578c861c6a71d353c2589adbf"
+  },
+  {
+   "path": "png/cultfit.png",
+   "pack": "logos",
+   "bytes": 1906,
+   "sha256": "d8740eed95718696fe401d58929864555d39b3c7af3f64f5d0e0d2da8348c908"
+  },
+  {
+   "path": "png/dbs.png",
+   "pack": "logos",
+   "bytes": 5618,
+   "sha256": "d2498befb35cf600a65cbc628b0c2efc6c25bd3010d79e0751ef56eb78382bb2"
+  },
+  {
+   "path": "png/dcbbank.png",
+   "pack": "logos",
+   "bytes": 2913,
+   "sha256": "18209b5b520a8368a3ef1ce90710d41f788f713922f2e66e24186834dccaca1b"
+  },
+  {
+   "path": "png/dishtv.png",
+   "pack": "logos",
+   "bytes": 2242,
+   "sha256": "d0cd7831dc092bcb9570224a3a66435b0f050898d75ee8d4463d59677c2e0b1c"
+  },
+  {
+   "path": "png/district.png",
+   "pack": "logos",
+   "bytes": 4249,
+   "sha256": "a8ee3727824739729656feaee387c13d4e40cde348abdb8d72e9f01c3c6b895b"
+  },
+  {
+   "path": "png/dream11.png",
+   "pack": "logos",
+   "bytes": 2166,
+   "sha256": "58ccb338bda2aa2d0213a6dbfb8a2e886c4aff284b120f032aff843f7027fc10"
+  },
+  {
+   "path": "png/eatsure.png",
+   "pack": "logos",
+   "bytes": 1286,
+   "sha256": "d93edab77bfb16a3c33eddeb9d7e0d4531301a9bd4593618c5816b21ead20f24"
+  },
+  {
+   "path": "png/equitas.png",
+   "pack": "logos",
+   "bytes": 7015,
+   "sha256": "de5448e1fdffc763c091f1b36409e9d952267f56d0f632f5a01850215e9c77c0"
+  },
+  {
+   "path": "png/fimoney.png",
+   "pack": "logos",
+   "bytes": 1586,
+   "sha256": "c35d95126d82ee298051996c622576aca93b43ecad96bd2a519641578b2dbd18"
+  },
+  {
+   "path": "png/freecharge.png",
+   "pack": "logos",
+   "bytes": 1300,
+   "sha256": "27287c0a8b22897e8ef034017b3ad5f289d07e6c5b4c02eab789486bd6e24114"
+  },
+  {
+   "path": "png/gaana.png",
+   "pack": "logos",
+   "bytes": 1125,
+   "sha256": "8bda9546993ef578881a7ceab50bedce18db708c6908670078a26333ca57059e"
+  },
+  {
+   "path": "png/hdfcergo.png",
+   "pack": "logos",
+   "bytes": 2154,
+   "sha256": "0c7eea10d6b2259bfad5c347d955740bf70b9b0a5ce05f4987add4da08b38306"
+  },
+  {
+   "path": "png/hdfclife.png",
+   "pack": "logos",
+   "bytes": 582,
+   "sha256": "47db3a3dae3438fe2bc2c42a4da1498fed3b516f0e80472013bef69472a62515"
+  },
+  {
+   "path": "png/hpgas.png",
+   "pack": "logos",
+   "bytes": 3528,
+   "sha256": "c8faa70fa72aa8dd6069cd827f01f757759488ef3f86756fd70aa9d69d878172"
+  },
+  {
+   "path": "png/icicilombard.png",
+   "pack": "logos",
+   "bytes": 7195,
+   "sha256": "2b0f2b9a2e5828e901d2e9385df5e23ca4235bae2165de0ac986d33daefa93d0"
+  },
+  {
+   "path": "png/idbi.png",
+   "pack": "logos",
+   "bytes": 7134,
+   "sha256": "af54f2524292bc4f01650e1692a12eacf076d13c9f71b0c0d262d9c97ba09aa6"
+  },
+  {
+   "path": "png/indane.png",
+   "pack": "logos",
+   "bytes": 4032,
+   "sha256": "b724308034887d30996ec8c12d81f13eb1206674d01e7493633d8788a029ec4c"
+  },
+  {
+   "path": "png/iob.png",
+   "pack": "logos",
+   "bytes": 1750,
+   "sha256": "d0a87f0096d4773f8450808badbe76e93043f45dad1733a7595fea84b51dfd4e"
+  },
+  {
+   "path": "png/ixigo.png",
+   "pack": "logos",
+   "bytes": 2054,
+   "sha256": "1175b58d65e4c7ceff6007b0bc632a2431370121e9949bdd256b3c32e65558fa"
+  },
+  {
+   "path": "png/jiosaavn.png",
+   "pack": "logos",
+   "bytes": 2364,
+   "sha256": "8e61a5f8f1294cbe02226a2a788f183f4a2b3fd493851a228f2b41f1d84b0d33"
+  },
+  {
+   "path": "png/jupiter.png",
+   "pack": "logos",
+   "bytes": 1026,
+   "sha256": "0f3dea0cbd00af0431db732b41b9e70b87d67ea73d69de6b642f67bad4e5f269"
+  },
+  {
+   "path": "png/karnatakabank.png",
+   "pack": "logos",
+   "bytes": 2548,
+   "sha256": "5837b2db6968c7eb09a7a4ea107da97be7af96954edd07efdfc40aea17d25de4"
+  },
+  {
+   "path": "png/kindle.png",
+   "pack": "logos",
+   "bytes": 5561,
+   "sha256": "66f8021acc015791d56843ad9efde6ad78cf9ab5fca8e1f5dccd7ca4440ad5ce"
+  },
+  {
+   "path": "png/kvb.png",
+   "pack": "logos",
+   "bytes": 4075,
+   "sha256": "0268fbdf851191a922f795880e3870159859a03595ef12c64db00f3fdc822933"
+  },
+  {
+   "path": "png/mamaearth.png",
+   "pack": "logos",
+   "bytes": 2597,
+   "sha256": "da5a9efe5a9af73eb5a67074e4759092612b1df8402ae3c1fba7f0b65055c2ce"
+  },
+  {
+   "path": "png/maxfashion.png",
+   "pack": "logos",
+   "bytes": 1345,
+   "sha256": "b5fb8784bfdbb9bd9c9cbd02adcfb1bb7ba5ae7256bc4696f96c56defde2ca79"
+  },
+  {
+   "path": "png/nammayatri.png",
+   "pack": "logos",
+   "bytes": 1038,
+   "sha256": "8c486482db93a50aa4077c9740d9e3d24e3554ccc3d5bbc0ffcb7a091ef308c5"
+  },
+  {
+   "path": "png/navi.png",
+   "pack": "logos",
+   "bytes": 1121,
+   "sha256": "7b6e88ef04fec73a54f534a2ff6e3932c6285e343b056076f6b059e2f80fcbcf"
+  },
+  {
+   "path": "png/netmeds.png",
+   "pack": "logos",
+   "bytes": 2684,
+   "sha256": "9f66cd03265b0421e1cf594b14c0d7b8a6abd998c99d972bab1ff2de0dc9b60a"
+  },
+  {
+   "path": "png/oneplus.png",
+   "pack": "logos",
+   "bytes": 2653,
+   "sha256": "c380e61b7c8e6857a4be85874324b328f55b7cab6d7a04da04181f53b7905664"
+  },
+  {
+   "path": "png/oyo.png",
+   "pack": "logos",
+   "bytes": 1229,
+   "sha256": "faffe9ecdd8ee2bb007078b35656b9d4365e4c644afcd0ba21188236af7c6deb"
+  },
+  {
+   "path": "png/pantaloons.png",
+   "pack": "logos",
+   "bytes": 873,
+   "sha256": "068264c52040187617da260a006adf225be0eab3f2e018fd34dc08d9adb8fc30"
+  },
+  {
+   "path": "png/pepperfry.png",
+   "pack": "logos",
+   "bytes": 2385,
+   "sha256": "7b4ce7308c1191232d562ec9f648b7fe7f1881e5e61bca4e9ed92e15815b5642"
+  },
+  {
+   "path": "png/pizzahut.png",
+   "pack": "logos",
+   "bytes": 4099,
+   "sha256": "9495fcdbce372a3ea071fd19dddeb969b86bfe0ca96bd610e886f453a484e29b"
+  },
+  {
+   "path": "png/policybazaar.png",
+   "pack": "logos",
+   "bytes": 1790,
+   "sha256": "6c7ff6306d081b0af07d7ddbeef6ae04c3300a992c58992242433398caa63128"
+  },
+  {
+   "path": "png/practo.png",
+   "pack": "logos",
+   "bytes": 1545,
+   "sha256": "fe039882ab7fff3ea1ab2e63364c5fe547f6e29681c39c7d0f7c9e2970c88aa9"
+  },
+  {
+   "path": "png/purplle.png",
+   "pack": "logos",
+   "bytes": 3876,
+   "sha256": "ce93b65b9945b9f8965897206c2a8baceb39cf16eb2d21afc0304970de1e0156"
+  },
+  {
+   "path": "png/sbilife.png",
+   "pack": "logos",
+   "bytes": 5102,
+   "sha256": "16f811d41529d04797ffd6efa91bbc6bc50eb8215e4a4a44d4e4d73a1c698599"
+  },
+  {
+   "path": "png/shopsy.png",
+   "pack": "logos",
+   "bytes": 2739,
+   "sha256": "2a9ad797d21cb10fb0de98bd44f4ccdb9ebd4775eb0647c1ed042a934b8c9d12"
+  },
+  {
+   "path": "png/slice.png",
+   "pack": "logos",
+   "bytes": 1230,
+   "sha256": "a8826f9279b108adfcfe0a8dafebebc2498d183106671f13cb53bca9d3ec2278"
+  },
+  {
+   "path": "png/snapchat.png",
+   "pack": "logos",
+   "bytes": 1952,
+   "sha256": "33af65fb0f45578168bbb08d4f442e82d74040b377570501fdcd04d1b2fd3bee"
+  },
+  {
+   "path": "png/snapdeal.png",
+   "pack": "logos",
+   "bytes": 2680,
+   "sha256": "0e6de60dca54b95d68f6db55d97522c052725d5a3480fa39fa19776416612490"
+  },
+  {
+   "path": "png/southindianbank.png",
+   "pack": "logos",
+   "bytes": 4338,
+   "sha256": "f5e495e94153491947c4a1b89151ec1faee7bb517681910125d3f6e61c23aa02"
+  },
+  {
+   "path": "png/spicejet.png",
+   "pack": "logos",
+   "bytes": 4376,
+   "sha256": "c4e9f1a1a4b2cf8b759738b950f96ebf666e15f992b37411f21aa0e118978450"
+  },
+  {
+   "path": "png/starhealth.png",
+   "pack": "logos",
+   "bytes": 3778,
+   "sha256": "51eecc858073bf7aecbb8a0270db9425ef7c922f0c382addebd21175ba80007c"
+  },
+  {
+   "path": "png/supermoney.png",
+   "pack": "logos",
+   "bytes": 1053,
+   "sha256": "bc9c6f515f4c44f3aa1aad831f05f05756ab1b001d0c8f947dd030e0e0216472"
+  },
+  {
+   "path": "png/tataaia.png",
+   "pack": "logos",
+   "bytes": 11342,
+   "sha256": "df351f7f02b2aca45303e6b23dc9eea343816818d642743abfc5e78f3e7b1016"
+  },
+  {
+   "path": "png/tatapower.png",
+   "pack": "logos",
+   "bytes": 2951,
+   "sha256": "12bb55eba5997e59ebbfd90a5547a9e7e465719285e79a23bc3e99c9317c9b0f"
+  },
+  {
+   "path": "png/telegram.png",
+   "pack": "logos",
+   "bytes": 2087,
+   "sha256": "6f440872d93ba25fc0723face36a83e7f8b283899b655ed50ba4aa866029e0e6"
+  },
+  {
+   "path": "png/tmb.png",
+   "pack": "logos",
+   "bytes": 4231,
+   "sha256": "a8314169785a3088fa942d7480cd607964cb5359278c7f15c4ee90dbcdde608a"
+  },
+  {
+   "path": "png/ucobank.png",
+   "pack": "logos",
+   "bytes": 4417,
+   "sha256": "8e2f86742d51e2a8ff8807ca05a24e77c047543eadee229c9eb719d35c9a8ef0"
+  },
+  {
+   "path": "png/ujjivan.png",
+   "pack": "logos",
+   "bytes": 1750,
+   "sha256": "b2e7caf3c8bbe7515ed5548d94433b763afbd2427ff3f938d13a6c52d79cbe39"
+  },
+  {
+   "path": "png/upstox.png",
+   "pack": "logos",
+   "bytes": 1898,
+   "sha256": "752118bce013f98456b7c948fbcba03fa7cd8d6644c0f00dc7dfdfb8b9ed5921"
+  },
+  {
+   "path": "png/vivo.png",
+   "pack": "logos",
+   "bytes": 1362,
+   "sha256": "8aa0993247c187aad9edc7828bff8efd529d535c5fbe11cd1c179dfde135f11d"
+  },
+  {
+   "path": "png/westside.png",
+   "pack": "logos",
+   "bytes": 2892,
+   "sha256": "ff51beb45f9fec12ec27631471e115aa95949fb5f106d83033d75131d9b0e72e"
+  },
+  {
+   "path": "png/wynk.png",
+   "pack": "logos",
+   "bytes": 8311,
+   "sha256": "81f59028ec13e7df8733d305ba9d7b42ce4f3e1cd6e7dfd8a29443c87856ff24"
+  },
+  {
+   "path": "png/x.png",
+   "pack": "logos",
+   "bytes": 1479,
+   "sha256": "613fb11b7070e3436f14dbfc29f8e156366c6de7cf06ac6b4f8d232bd6191b49"
+  },
+  {
+   "path": "png/xiaomi.png",
+   "pack": "logos",
+   "bytes": 1056,
+   "sha256": "18aa4e2977f1d18ea4f47678a4f9959ae3f002f73a58b1fee36d1202090d036f"
+  },
+  {
+   "path": "png/yatra.png",
+   "pack": "logos",
+   "bytes": 1401,
+   "sha256": "42019faa92984f3fcf20f9ef2c5ce77ccd34f2b40ba27bc19a8d954d4de44793"
+  },
+  {
+   "path": "data/merchants.json",
+   "pack": "merchants",
+   "bytes": 34013,
+   "sha256": "c354db8b273e1d7d016710a558d355866cd14ef0a49fd9e229bb7930d94c3a01"
+  },
+  {
+   "path": "data/senders.json",
+   "pack": "senders",
+   "bytes": 7525,
+   "sha256": "4af84a347737977126434bc062e1a4bc3b6f29b8834760e1fe35c04258a58143"
+  }
+ ]
+}

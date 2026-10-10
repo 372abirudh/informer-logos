@@ -1,0 +1,530 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "code": "HDFCBK",
+   "org": "HDFC Bank",
+   "type": "bank"
+  },
+  {
+   "code": "ICICIB",
+   "org": "ICICI Bank",
+   "type": "bank"
+  },
+  {
+   "code": "ICICIT",
+   "org": "ICICI Bank",
+   "type": "bank"
+  },
+  {
+   "code": "SBIINB",
+   "org": "SBI",
+   "type": "bank"
+  },
+  {
+   "code": "SBIUPI",
+   "org": "SBI",
+   "type": "bank"
+  },
+  {
+   "code": "SBMSMS",
+   "org": "SBI",
+   "type": "bank"
+  },
+  {
+   "code": "CBSSBI",
+   "org": "SBI",
+   "type": "bank"
+  },
+  {
+   "code": "ATMSBI",
+   "org": "SBI",
+   "type": "bank"
+  },
+  {
+   "code": "AXISBK",
+   "org": "Axis Bank",
+   "type": "bank"
+  },
+  {
+   "code": "KOTAKB",
+   "org": "Kotak",
+   "type": "bank"
+  },
+  {
+   "code": "IDFCFB",
+   "org": "IDFC FIRST",
+   "type": "bank"
+  },
+  {
+   "code": "YESBNK",
+   "org": "YES Bank",
+   "type": "bank"
+  },
+  {
+   "code": "INDUSB",
+   "org": "IndusInd",
+   "type": "bank"
+  },
+  {
+   "code": "FEDBNK",
+   "org": "Federal Bank",
+   "type": "bank"
+  },
+  {
+   "code": "CANBNK",
+   "org": "Canara Bank",
+   "type": "bank"
+  },
+  {
+   "code": "PNBSMS",
+   "org": "PNB",
+   "type": "bank"
+  },
+  {
+   "code": "BOBTXN",
+   "org": "Bank of Baroda",
+   "type": "bank"
+  },
+  {
+   "code": "BOBSMS",
+   "org": "Bank of Baroda",
+   "type": "bank"
+  },
+  {
+   "code": "UNIONB",
+   "org": "Union Bank",
+   "type": "bank"
+  },
+  {
+   "code": "BOIIND",
+   "org": "Bank of India",
+   "type": "bank"
+  },
+  {
+   "code": "CENTBK",
+   "org": "Central Bank",
+   "type": "bank"
+  },
+  {
+   "code": "IOBCHN",
+   "org": "Indian Overseas Bank",
+   "type": "bank"
+  },
+  {
+   "code": "UCOBNK",
+   "org": "UCO Bank",
+   "type": "bank"
+  },
+  {
+   "code": "INDBNK",
+   "org": "Indian Bank",
+   "type": "bank"
+  },
+  {
+   "code": "AUBANK",
+   "org": "AU Bank",
+   "type": "bank"
+  },
+  {
+   "code": "RBLBNK",
+   "org": "RBL Bank",
+   "type": "bank"
+  },
+  {
+   "code": "HSBCIN",
+   "org": "HSBC",
+   "type": "bank"
+  },
+  {
+   "code": "SCBANK",
+   "org": "Standard Chartered",
+   "type": "bank"
+  },
+  {
+   "code": "CITIBK",
+   "org": "Citibank",
+   "type": "bank"
+  },
+  {
+   "code": "DBSBNK",
+   "org": "DBS Bank",
+   "type": "bank"
+  },
+  {
+   "code": "KVBANK",
+   "org": "Karur Vysya Bank",
+   "type": "bank"
+  },
+  {
+   "code": "CUBANK",
+   "org": "City Union Bank",
+   "type": "bank"
+  },
+  {
+   "code": "TMBANK",
+   "org": "Tamilnad Mercantile Bank",
+   "type": "bank"
+  },
+  {
+   "code": "SIBSMS",
+   "org": "South Indian Bank",
+   "type": "bank"
+  },
+  {
+   "code": "KBLBNK",
+   "org": "Karnataka Bank",
+   "type": "bank"
+  },
+  {
+   "code": "EQUTAS",
+   "org": "Equitas",
+   "type": "bank"
+  },
+  {
+   "code": "UJJIVN",
+   "org": "Ujjivan",
+   "type": "bank"
+  },
+  {
+   "code": "BDNSMS",
+   "org": "Bandhan Bank",
+   "type": "bank"
+  },
+  {
+   "code": "IDBIBK",
+   "org": "IDBI Bank",
+   "type": "bank"
+  },
+  {
+   "code": "DCBBNK",
+   "org": "DCB Bank",
+   "type": "bank"
+  },
+  {
+   "code": "JUPITR",
+   "org": "Jupiter",
+   "type": "bank"
+  },
+  {
+   "code": "FIMONY",
+   "org": "Fi Money",
+   "type": "bank"
+  },
+  {
+   "code": "NSDLPB",
+   "org": "NSDL Payments Bank",
+   "type": "bank"
+  },
+  {
+   "code": "AIRBNK",
+   "org": "Airtel Payments Bank",
+   "type": "bank"
+  },
+  {
+   "code": "IPBMSG",
+   "org": "India Post Payments Bank",
+   "type": "bank"
+  },
+  {
+   "code": "SBICRD",
+   "org": "SBI Card",
+   "type": "card"
+  },
+  {
+   "code": "AMEXIN",
+   "org": "American Express",
+   "type": "card"
+  },
+  {
+   "code": "ONECRD",
+   "org": "OneCard",
+   "type": "card"
+  },
+  {
+   "code": "SLICEIT",
+   "org": "slice",
+   "type": "card"
+  },
+  {
+   "code": "BOBCRD",
+   "org": "BOBCARD",
+   "type": "card"
+  },
+  {
+   "code": "PHONPE",
+   "org": "PhonePe",
+   "type": "upi"
+  },
+  {
+   "code": "GPAY",
+   "org": "Google Pay",
+   "type": "upi"
+  },
+  {
+   "code": "PAYTMB",
+   "org": "Paytm",
+   "type": "wallet"
+  },
+  {
+   "code": "PAYTM",
+   "org": "Paytm",
+   "type": "wallet"
+  },
+  {
+   "code": "AMAZNP",
+   "org": "Amazon Pay",
+   "type": "wallet"
+  },
+  {
+   "code": "MOBIKW",
+   "org": "MobiKwik",
+   "type": "wallet"
+  },
+  {
+   "code": "CREDIN",
+   "org": "CRED",
+   "type": "upi"
+  },
+  {
+   "code": "BHIMUP",
+   "org": "BHIM",
+   "type": "upi"
+  },
+  {
+   "code": "FRECHG",
+   "org": "Freecharge",
+   "type": "wallet"
+  },
+  {
+   "code": "NAVIPY",
+   "org": "Navi",
+   "type": "upi"
+  },
+  {
+   "code": "AIRTEL",
+   "org": "Airtel",
+   "type": "biller"
+  },
+  {
+   "code": "JIOINF",
+   "org": "Jio",
+   "type": "biller"
+  },
+  {
+   "code": "JIOPAY",
+   "org": "Jio",
+   "type": "biller"
+  },
+  {
+   "code": "VIINFO",
+   "org": "Vi",
+   "type": "biller"
+  },
+  {
+   "code": "BSNLIN",
+   "org": "BSNL",
+   "type": "biller"
+  },
+  {
+   "code": "BESCOM",
+   "org": "BESCOM",
+   "type": "biller"
+  },
+  {
+   "code": "TATAPW",
+   "org": "Tata Power",
+   "type": "biller"
+  },
+  {
+   "code": "ADANIE",
+   "org": "Adani Electricity",
+   "type": "biller"
+  },
+  {
+   "code": "ACTFBR",
+   "org": "ACT Fibernet",
+   "type": "biller"
+  },
+  {
+   "code": "TATAPL",
+   "org": "Tata Play",
+   "type": "biller"
+  },
+  {
+   "code": "MAHADS",
+   "org": "MSEDCL",
+   "type": "biller"
+  },
+  {
+   "code": "TNEBLT",
+   "org": "TNEB",
+   "type": "biller"
+  },
+  {
+   "code": "BSESRJ",
+   "org": "BSES",
+   "type": "biller"
+  },
+  {
+   "code": "INDANE",
+   "org": "Indane Gas",
+   "type": "biller"
+  },
+  {
+   "code": "HPGASC",
+   "org": "HP Gas",
+   "type": "biller"
+  },
+  {
+   "code": "AMAZON",
+   "org": "Amazon",
+   "type": "store"
+  },
+  {
+   "code": "FLPKRT",
+   "org": "Flipkart",
+   "type": "store"
+  },
+  {
+   "code": "MYNTRA",
+   "org": "Myntra",
+   "type": "store"
+  },
+  {
+   "code": "MEESHO",
+   "org": "Meesho",
+   "type": "store"
+  },
+  {
+   "code": "AJIOIN",
+   "org": "AJIO",
+   "type": "store"
+  },
+  {
+   "code": "NYKAA",
+   "org": "Nykaa",
+   "type": "store"
+  },
+  {
+   "code": "SWIGGY",
+   "org": "Swiggy",
+   "type": "store"
+  },
+  {
+   "code": "ZOMATO",
+   "org": "Zomato",
+   "type": "store"
+  },
+  {
+   "code": "BLINKT",
+   "org": "Blinkit",
+   "type": "store"
+  },
+  {
+   "code": "ZEPTON",
+   "org": "Zepto",
+   "type": "store"
+  },
+  {
+   "code": "BBNOW",
+   "org": "bigbasket",
+   "type": "store"
+  },
+  {
+   "code": "JIOMRT",
+   "org": "JioMart",
+   "type": "store"
+  },
+  {
+   "code": "TATACQ",
+   "org": "Tata CLiQ",
+   "type": "store"
+  },
+  {
+   "code": "CROMA",
+   "org": "Croma",
+   "type": "store"
+  },
+  {
+   "code": "LNSKRT",
+   "org": "Lenskart",
+   "type": "store"
+  },
+  {
+   "code": "FSTCRY",
+   "org": "FirstCry",
+   "type": "store"
+  },
+  {
+   "code": "DECATH",
+   "org": "Decathlon",
+   "type": "store"
+  },
+  {
+   "code": "IKEAIN",
+   "org": "IKEA",
+   "type": "store"
+  },
+  {
+   "code": "SNAPDL",
+   "org": "Snapdeal",
+   "type": "store"
+  },
+  {
+   "code": "PURPLE",
+   "org": "Purplle",
+   "type": "store"
+  },
+  {
+   "code": "DLHVRY",
+   "org": "Delhivery",
+   "type": "courier"
+  },
+  {
+   "code": "DELHVY",
+   "org": "Delhivery",
+   "type": "courier"
+  },
+  {
+   "code": "BLDART",
+   "org": "Blue Dart",
+   "type": "courier"
+  },
+  {
+   "code": "EKARTL",
+   "org": "Ekart",
+   "type": "courier"
+  },
+  {
+   "code": "XPRESB",
+   "org": "Xpressbees",
+   "type": "courier"
+  },
+  {
+   "code": "SHDWFX",
+   "org": "Shadowfax",
+   "type": "courier"
+  },
+  {
+   "code": "ECOMXP",
+   "org": "Ecom Express",
+   "type": "courier"
+  },
+  {
+   "code": "DTDCIN",
+   "org": "DTDC",
+   "type": "courier"
+  },
+  {
+   "code": "INDPST",
+   "org": "India Post",
+   "type": "courier"
+  },
+  {
+   "code": "SHPRKT",
+   "org": "Shiprocket",
+   "type": "courier"
+  }
+ ]
+}
